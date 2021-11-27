@@ -74,4 +74,4 @@ If you want to add processes names to be stopped, make a pull request!
 
 -----
 
-### <p align="center">billythegoat356</p>
+### <p align="center"> Waring !  Je n'ai pas fait le logiciel tout crédit est a billythegoat356 je l'ai seulement optimisé </p>
